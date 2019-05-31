@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "php" : "^7.0",
+        
         "ext-imagick" : "*"
     },
     "require-dev": {
